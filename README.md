@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 你好 / Hi there
 
-<!--
-**WangHX2024/WangHX2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🇨🇳 中文
+
+- 🔭 我目前正在学习并实践更多编程项目  
+- 🌱 我正在持续提升工程能力与开发经验  
+- 👯 欢迎交流合作与技术讨论  
+- 📫 你可以通过 GitHub 与我联系
+
+---
+
+## 🇺🇸 English
+
+- 🔭 I am currently learning and building more coding projects  
+- 🌱 I am continuously improving my engineering and development skills  
+- 👯 Open to collaboration and technical discussions  
+- 📫 Feel free to reach out via GitHub
